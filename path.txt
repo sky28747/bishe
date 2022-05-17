@@ -1,0 +1,9 @@
+C:\Program Files\Schneider Electric\EcoStruxure Machine Expert\V2.0\LogicBuilder\Common
+
+3454162335
+
+http://www.javatiku.cn/goland/888.html
+
+(ip.src==192.168.2.13||ip.dst==192.168.2.13)&&(ip.src==192.168.2.120||ip.dst==192.168.2.120)&&frame.len!=62
+
+frame.len==165
